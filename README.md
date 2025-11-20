@@ -18,4 +18,4 @@ one of them will be a CLI app :3
 
 > [!WARNING]
 > To avoid problems on communicating with me better look up my socials where
-> I can get in touch with you, no insulting please! Also [No Hello Please! Thanks](nohello.net/ru)
+> I can get in touch with you, no insulting please! Also [No Hello Please! Thanks](https://nohello.net/ru)
