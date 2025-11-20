@@ -1,16 +1,21 @@
-## Hi there 👋
+## hi there :3
 
-<!--
-**v1RRY/v1RRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Hi :3 -->
 
-Here are some ideas to get you started:
+im **v1RRY**, a newbie _developer_ on github :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## wat do i plan to do?
+
+just a few things
+one of them will be a CLI app :3
+
+##  worktime
+9:00 - 22:30 by MSK all days except weekends
+
+> [!CAUTION]
+> I CAN'T see your pull requests all time and cant approve your collaborations all time
+> Please let in your acknowledge!!
+
+> [!WARNING]
+> To avoid problems on communicating with me better look up my socials where
+> I can get in touch with you, no insulting please! Also [No Hello Please! Thanks](nohello.net/ru)
