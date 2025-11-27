@@ -13,7 +13,7 @@ one of them will be a CLI app :3
 9:00 - 22:30 by MSK all days except weekends
 
 > [!CAUTION]
-> I CAN'T see your pull requests all time and cant approve your collaborations all time
+> I CAN'T see your pull requests all time and cant approve your contributions all time
 > Please let in your acknowledge!!
 
 > [!WARNING]
