@@ -1,21 +1,10 @@
-## hi there :3
+## well hullo there
+hi! im v1rry, newbie on github and youtube
 
-<!-- Hi :3 -->
+## worktime
+from 12:50 to 22:50 MSK on weekends
+from 17:50 to 22:50 MSK on normal days
 
-im **v1RRY**, a newbie _developer_ on github :D
-
-## wat do i plan to do?
-
-just a few things
-one of them will be a CLI app :3
-
-##  worktime
-9:00 - 22:30 by MSK all days except weekends
-
-> [!CAUTION]
-> I CAN'T see your pull requests all time and cant approve your contributions all time
-> Please let in your acknowledge!!
-
-> [!WARNING]
-> To avoid problems on communicating with me better look up my socials where
-> I can get in touch with you, no insulting please! Also [No Hello Please! Thanks](https://nohello.net/ru)
+## friends
+[Daniel Myslivets](https://github.com/myslivets)
+[Eversiege](https://github.com/eversiege)
